@@ -296,7 +296,7 @@ blockquote .svg-inline--fa {
 }
 .clients-hr {
   border-top: .05rem solid #1ebba3;
-}
+} =============*/
 
 /*============= CONTACT SECTION =============*/
 
@@ -308,7 +308,7 @@ footer {
 }
 footer .row {
   background-color: rgba(57, 63, 70, 0.85);
-  padding: 1rem 2rem 3rem;
+  padding: 10rem 2rem 3rem;
 }
 footer img {
   height: 2rem;
